@@ -1,4 +1,4 @@
-# BDD-CUCUMNER EXAMPLE
+# BDD Cucumber Example
 
 + ### JAVA 8
 + ### Selenuim
